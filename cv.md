@@ -1,29 +1,9 @@
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- # Yauheni Yerashenka
- ## Contact Info
+# Yauheni Yerashenka
+## Contact Info
  - E-mail:ATAMAH_XAH@mail.ru
  - [VK](https://vk.com/id384549469)
  - [GitHub](https://github.com/Mornival)
- ## Summary
+## Summary
   **My goal is to improve my skills in front-end development**
   - Sociable
   - Responsive
