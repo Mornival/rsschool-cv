@@ -5,16 +5,16 @@
  - [GitHub](https://github.com/Mornival)
 ## Summary
   **My goal is to improve my skills in front-end development**
-  - Sociable
-  - Responsive
-  - Team worker
-  - Interested in self improvement
-  - Self-taught
+  - _Sociable_
+  - _Responsive_
+  - _Team worker_
+  - _Interested in self improvement_
+  - _Self-taught_
 ## Skills
-  - Html
-  - CSS
-  - JavaScript
-  - Git 
+  - _Html_
+  - _CSS_
+  - _JavaScript_
+  - _Git_
 ## Experience
   Laboratory works at the university
 ## Education
