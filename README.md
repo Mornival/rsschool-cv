@@ -1,1 +1,1 @@
-https://Mornival.github.io/rsschool-cv/cv
+https://Mornival.github.io/rsschool-cv
