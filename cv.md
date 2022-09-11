@@ -20,7 +20,7 @@ Intermediate
 - Team worker
 - Interested in self improvement
 ## English Level
-Intermediate B1
+Intermediate-B1
 ## Contacts
 - [GitHub](https://github.com/Mornival)
 - [VK](https://vk.com/xyjiuman)
