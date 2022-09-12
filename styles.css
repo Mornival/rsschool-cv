@@ -1,0 +1,90 @@
+html { 
+    background-color: rgb(70, 70, 70);
+}
+body{
+    width:80%;
+    margin: 0px auto;
+    font-family:'Big Shoulders Display', cursive;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 0px 0px 35px 35px;
+    background-color: rgba(255,255,255,70%)
+}
+.head{
+    margin:5px;
+}
+h1{
+    margin:0;
+    font-size:3em;
+    color:black;
+    text-shadow: 5px 5px 10px black;
+}
+h2{
+    margin:0;
+    font-size:2.5em;
+    color:black;
+    text-shadow: 5px 5px 10px black;
+}
+ul{
+    padding-left:0;
+}
+ul.menu{
+    margin:0;
+}
+ul.menu li{
+    margin-top:0.5em;
+    display: inline;
+    margin-right:1em;
+    font-size:2.5em;
+    color: black;
+}
+ul.menu li:last-child{
+    margin-right:0;
+}
+ul.menu li:hover{
+    color:black;
+    border-bottom-width:4px;
+    border-bottom-style:solid;
+    border-bottom-color:black;
+    opacity:60%;
+}
+a{
+    margin:0;
+    padding:0;
+    color:black;
+}
+li{
+    list-style-type: none;
+}
+.logo{
+    width:32px;
+    height:32px;
+}
+a.logo{
+    margin:10px;
+}
+a:link img{
+    filter:grayscale(1);
+}
+a:hover img{
+    filter:grayscale(0);
+}
+a {
+    font-size:28px;
+    text-decoration: none;
+}
+.line{
+    height:0.2em;
+    background-color:black;
+    padding:0;
+    border:0;
+}
+.text {
+    font-size: 1.5em;
+}
+.list p {
+    margin: 10px;
+}
+#contacts p {
+    margin: 5px;
+}
